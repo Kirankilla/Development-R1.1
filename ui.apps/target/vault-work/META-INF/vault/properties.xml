@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Sample.AEM</comment>
+<entry key="createdBy">kkilla</entry>
+<entry key="name">Killa.ui.apps</entry>
+<entry key="created">2017-01-31T17:42:11.301+0530</entry>
+<entry key="groupId">com.example.project.foundation</entry>
+<entry key="version">1.0.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">SamplePackage</entry>
+<entry key="description">UI apps</entry>
+<entry key="artifactId">Killa.ui.apps</entry>
+<entry key="path">/etc/packages/SamplePackage/Killa.ui.apps.zip</entry>
+</properties>
