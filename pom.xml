@@ -15,7 +15,7 @@
 		<module>ui.apps</module>
 		<module>SBI</module>
 		<module>ui.content</module>
-		<!--<module>example</module>-->
+          	<module>example</module>
 	</modules>
 	
 	<properties>
